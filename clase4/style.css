@@ -1,0 +1,50 @@
+
+/ * ESTILO DE LETRA Y COLOR  DE FONDO PARA EL TITULO PRINCIPAL * / 
+h1 {
+    color: rgb(66, 7, 7);
+    background-color: rgb(229, 215, 233);   
+  }
+  
+  /* ESTILO  COLOR DE FONDO PARA LOS DISTINTOS DIAS Y HORARIOS  */
+
+.exampleone {
+    background-color: rgb(175, 223, 120);
+    color: rgb(8, 8, 8);
+
+  }
+  
+.exampleones {   
+    background-color: #d1f07d;
+    color: rgb(127, 199, 241);
+   
+  } 
+
+.exampleonese {
+    background-color: rgb(108, 243, 214);
+    color: rgb(8, 8, 8);
+  } 
+
+.exampleonesen {
+    background-color: rgb(122, 225, 243);
+    color: rgb(8, 8, 8);
+  } 
+
+.exampleonen {
+    background-color: rgb(9, 189, 159);
+    color: rgb(8, 8, 8);
+  }
+
+  / * ESTILO DE LETRA PARA LAS DIAS  * /
+  p {
+    font-weight:bold;
+    font-size: 150%;
+   
+  } 
+
+  /* ESTILO DE LETRA PARA LAS PROFECCIONES */
+  .example {
+       
+    font-style: oblique ;
+    font-size: x-large;
+    font-family: fantasy;
+  } 
